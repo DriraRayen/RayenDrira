@@ -1,5 +1,7 @@
 # 👑 Rayen Drira
 
+**`GitGud`**
+
 An all-rounder on the rise — an IoT and Embedded Systems student wandering through the IT world, from development and design all the way to cybersecurity and networks. Beyond the screen, I'm a Scout leader, always exploring and learning. A cinephile at heart with a strong passion for challenging games — embracing challenges like any true Elden Lord.
 
 <a href="https://linkedin.com/in/drirarayen" target="_blank">
@@ -38,3 +40,10 @@ An all-rounder on the rise — an IoT and Embedded Systems student wandering thr
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayendrira&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="rayendrira" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayendrira&show_icons=true&locale=en&theme=gruvbox" alt="rayendrira" />
+
+
+[![Lose My Mind - Don Toliver ft. Doja Cat](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf)
+
+<iframe src="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf" width="300" height="80" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+

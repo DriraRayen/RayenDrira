@@ -1,58 +1,61 @@
 # Hey there, I’m Rayen Drira 👋
 
-![Profile Banner](https://img.shields.io/badge/Welcome-to-My-GitHub-%23ff69b4?style=for-the-badge&logo=github)
+![Header](https://img.shields.io/badge/Code%20with-Rayen%20Drira-ff69b4?style=for-the-badge&logo=github)
 
-I’m a **Computer Engineering student**, **IoT magician**, **Scout leader 🏕️**, and full-time **code slayer 💻⚡**.  
-
-> "If it’s worth building, it’s worth overengineering." — Me, probably 😎
-
----
-
-## 🧰 Skills & Powers
-
-### ⚡ Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+I’m a **Computer Engineering student**, **IoT enthusiast**, and **Scout leader 🏕️**.  
+I build projects that mix **software magic + hardware wizardry** ✨⚡.
 
 ---
 
-## 🚀 Projects
+## 🧰 Skills
 
-| Project | Description | Tech Stack | GIF |
-|---------|-------------|------------|-----|
-| **Memora** | Flashcard learning app | React, PHP, MySQL | ![memora](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
-| **TawTaw Store** | Tech e-commerce platform | HTML, CSS, JS, PHP, MySQL | ![store](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
-| **File Organizer** | Automatic file sorting wizard | Python | ![organizer](https://media.giphy.com/media/3orieVSNNsFfY7O5l6/giphy.gif) |
-| **CyberSec Sim** | CTF + pentest simulator | Python, CTF concepts | ![cyber](https://media.giphy.com/media/26xBukhqaB2m4XHuA/giphy.gif) |
+### 🔹 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### 🔹 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHPMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+
+### 🔹 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- **Memora** → Flashcard web app for smarter learning  
+- **TawTaw Store** → Tech-focused e-commerce website  
+- **File Organizer** → Automatic file sorting in Python  
+- **TawTaw Messaging App** → Custom messaging tool  
+
+> ⚡ Small list, big impact. More projects coming soon!
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayenDrira&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayenDrira&layout=compact&theme=radical)
+![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayenDrira&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayenDrira&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Learning Journey
 
-- AI & ML for apps 🤖  
-- Advanced **React / Frontend magic** ✨  
-- Embedded **IoT + sensors + ESP32 madness** 🔌  
-- Ethical hacking / cybersecurity 🛡️  
+- Advanced **React / Frontend frameworks**  
+- **IoT projects** with ESP32 + sensors  
+- **Cybersecurity** & Ethical Hacking 🛡️  
+- Exploring **AI/ML** 🤖  
 
 ---
 
@@ -64,15 +67,8 @@ I’m a **Computer Engineering student**, **IoT magician**, **Scout leader 🏕�
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Fact
 
-- Scout leader: can survive in the wild AND messy codebases 🏕️💪  
-- Coffee-powered coder ☕💻  
-- Meme enthusiast 🎭  
-- I write README files that make people go 😲
-
----
-
-## 🎵 Currently Jamming
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&background_color=121212&theme=natemoo-re)
+Scout leader by day 🌍,  
+Code warrior by night 💻⚔️.  
+I can debug code *and* start a campfire with sticks. 🔥

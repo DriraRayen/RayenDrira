@@ -1,6 +1,7 @@
-![Elden Lord Banner](20250405203302_1.jpg)
+<img src="20250405203302_1.jpg" alt="Elden Lord Banner" width="700"/>
 
-# 👑 Rayen Drira
+
+# 👑 Rayen Drira 
 
 **`GitGud`**
 
@@ -40,8 +41,8 @@ An all-rounder on the rise — an IoT and Embedded Systems student wandering thr
 
 ### 📊 Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayendrira&show_icons=true&locale=en&layout=compact&theme=dark" alt="rayendrira" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rayendrira&show_icons=true&locale=en&theme=dark" alt="rayendrira" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayendrira&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="rayendrira" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rayendrira&show_icons=true&locale=en&theme=gruvbox" alt="rayendrira" />
 
 
 

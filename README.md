@@ -2,20 +2,10 @@
 
 An all-rounder on the rise — an IoT and Embedded Systems student wandering through the IT world, from development and design all the way to cybersecurity and networks. Beyond the screen, I'm a Scout leader, always exploring and learning. A cinephile at heart with a strong passion for challenging games — embracing challenges like any true Elden Lord.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/drirarayen" target="_blank" style="
-        display: inline-block;
-        background-color: #0077B5;
-        color: white;
-        padding: 8px 16px;
-        border-radius: 6px;
-        text-decoration: none;
-        font-weight: bold;
-        font-family: sans-serif;">
-    LinkedIn
+<a href="https://linkedin.com/in/drirarayen" target="_blank">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-</p>
 
 
 

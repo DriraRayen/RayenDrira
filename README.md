@@ -4,8 +4,20 @@ An all-rounder on the rise — an IoT and Embedded Systems student wandering thr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/drirarayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drirarayen" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/drirarayen" target="_blank" style="
+        display: inline-block;
+        background-color: #0077B5;
+        color: white;
+        padding: 8px 16px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: sans-serif;">
+    LinkedIn
+  </a>
 </p>
+
+
 
 ---
 

@@ -1,5 +1,4 @@
-# Rayen Drira
-**`Student`** 
+# 👑 Rayen Drira
 
 An all-rounder on the rise — an IoT and Embedded Systems student wandering through the IT world, from development and design all the way to cybersecurity and networks. Beyond the screen, I'm a Scout leader, always exploring and learning. A cinephile at heart with a strong passion for challenging games — embracing challenges like any true Elden Lord.
 
@@ -10,7 +9,9 @@ An all-rounder on the rise — an IoT and Embedded Systems student wandering thr
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+
+### 🧰 Languages and Tools
+
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -30,6 +31,8 @@ An all-rounder on the rise — an IoT and Embedded Systems student wandering thr
 <br>
 
 #
+
+### 📊 Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayendrira&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="rayendrira" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayendrira&show_icons=true&locale=en&theme=gruvbox" alt="rayendrira" />

@@ -3,7 +3,7 @@
 An **all-rounder on the rise** — IoT & Embedded Systems student exploring the IT world. <br>
 From development and design to cybersecurity and networks. <br>
 Beyond the screen, I'm a **Scout leader**, always learning and exploring. <br>
-A **cinephile** with a love for challenging games — embracing trials like a true *Elden Lord*.
+A **Cinephile** with a love for challenging games — embracing trials like a true *Elden Lord*.
 </h3>
 
 ---
@@ -11,9 +11,7 @@ A **cinephile** with a love for challenging games — embracing trials like a tr
 ## 🚀 Current Work & Learning
 - 🔭 **Currently working on:** VitaCare  
 - 🌱 **Currently learning:** React, SpringBoot  
-- 💬 **Ask me about:** IoT, Embedded Systems, Cybersecurity, Web Development  
 - 📫 **Reach me at:** drirarayen@isitc.u-sousse.tn  
-- ⚡ **Fun fact:** I never back down from a tough game challenge — Elden Ring style.
 
 ---
 
@@ -24,9 +22,6 @@ A **cinephile** with a love for challenging games — embracing trials like a tr
   </a>
   <a href="https://www.linkedin.com/in/rayendrira/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/rayendrira" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -68,14 +63,3 @@ A **cinephile** with a love for challenging games — embracing trials like a tr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayendrira&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
-
-## 🎮 Fun & Hobbies
-- Challenging games (Elden Ring vibes 🔥)  
-- Scouting & outdoor adventures 🏕️  
-- Watching movies & exploring stories 🎬  
-- Building cool tech projects 💡  
-
----
-
-*“An Elden Lord never stops leveling up — in life or in code.”*

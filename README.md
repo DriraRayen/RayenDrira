@@ -1,4 +1,4 @@
-![Elden Lord Banner](assets/elden_lord.png)
+![Elden Lord Banner](20250405203302_1.jpg)
 
 # 👑 Rayen Drira
 

@@ -1,4 +1,4 @@
-<img src="20250405203302_1.jpg" alt="Elden Lord Banner" width="700"/>
+<img src="20250405203302_1.jpg" alt="Elden Lord Banner"/>
 
 
 # 👑 Rayen Drira 

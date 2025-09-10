@@ -1,9 +1,9 @@
-<h1 align="center">Rayen Drira</h1>
-**`Student (Developer/learner/Creator)`**
+<h1 align="left">Rayen Drira</h1>
+**`Student (Developer/learner/Creator)`** 
 <h4 align="left">An all-rounder on the rise — an IoT and Embedded Systems student wandering through the IT world, from development and design all the way to cybersecurity and networks. Beyond the screen, I'm a Scout leader, always exploring and learning. A cinephile at heart with a strong passion for challenging games — embracing challenges like any true Elden Lord.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/drirarayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drirarayen" height="30" width="40" /></a>
 </p>
 

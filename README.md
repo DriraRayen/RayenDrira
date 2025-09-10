@@ -1,3 +1,5 @@
+![Elden Lord Banner](assets/elden_lord.png)
+
 # 👑 Rayen Drira
 
 **`GitGud`**
